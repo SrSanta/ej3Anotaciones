@@ -46,6 +46,6 @@ public class AgendaSemana {
     public String toString() {
         return "AgendaSemana{" +
                 "tareas=" + tareaList +
-                '}' + tareaList.size();
+                '}';
     }
 }
